@@ -1,4 +1,4 @@
-Future Goals
+Future Goals:
 Extend model to all important stats
 Take into account previous years
 Take into account matchups
