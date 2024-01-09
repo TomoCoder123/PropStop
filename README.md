@@ -22,8 +22,8 @@ This project involves the development of a sophisticated statistical model desig
 8. **Develop a Generalized Model:** Aim to create a model that can be adapted for various domains or fields, enhancing its utility and applicability.
 
 9. **Continuous Improvement and Testing:** Regularly update and test the model to ensure its accuracy and relevance in changing scenarios.
-10. 
-11. **Incorporation of Category Combinations** Test combinations of stats like PTS+REBS for more comprehensive models.
+    
+10. **Incorporation of Category Combinations** Test combinations of stats like PTS+REBS for more comprehensive models.
 ## Getting Started
 
 
