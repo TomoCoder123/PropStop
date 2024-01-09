@@ -1,7 +1,7 @@
 # The PropStop Advanced Statistical Analysis Model (Alpha 1.0)
 
 ## Introduction
-This project involves the development of a sophisticated statistical model designed to predict outcomes based on a wide range of variables. Initially focused on [specific domain - e.g., sports analytics], the model aims to incorporate historical data, matchup specifics, and situational factors to enhance its predictive accuracy.
+This project involves the development of a sophisticated statistical model designed to predict outcomes based on a wide range of variables. Initially focused on [specific domain - e.g., sports analytics], the model aims to incorporate historical data, matchup specifics, and situational factors to enhance its predictive accuracy. Currently, the model uses a random forest regressor on the last 10 games.
 
 ## Future Goals
 
