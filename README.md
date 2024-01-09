@@ -24,6 +24,8 @@ This project involves the development of a sophisticated statistical model desig
 9. **Continuous Improvement and Testing:** Regularly update and test the model to ensure its accuracy and relevance in changing scenarios.
     
 10. **Incorporation of Category Combinations** Test combinations of stats like PTS+REBS for more comprehensive models.
+
+11. **Pace Data and Advanced Defensive Data** Experiment with teams' pace and defensive ratings
 ## Getting Started
 
 
