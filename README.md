@@ -11,7 +11,7 @@ This project involves the development of a sophisticated statistical model desig
 
 3. **Matchup Analysis:** Integrate matchup-specific data to assess how different opponents or conditions might affect the results.
 
-4. **Consideration of Situational Factors:** Include variables such as rest days, home/away status, and other relevant situational factors to refine the model’s predictions.
+4. **Consideration of Situational Factors:** Include variables such as INJURIES, rest days, home/away status, and other relevant situational factors to refine the model’s predictions.
 
 5. **Experiment with Window Sizes:** Test various window sizes in data analysis to determine the optimal timeframe for data consideration.
 
